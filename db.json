@@ -1,0 +1,18 @@
+{
+
+  "administrador":[
+    {  "id":1,
+        "nombre":"Wandrade",
+        "contraseña":"willian43"
+    }
+    ,
+    {  "id":2,
+      "nombre":"Jhonson",
+      "contraseña":"jhon43"
+    }
+
+
+
+  ]
+
+}
